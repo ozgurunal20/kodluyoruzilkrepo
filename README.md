@@ -6,3 +6,4 @@ Kodluyoruz Front-End Eğitimi kapsamında açtığım ilk repo
 - style.css dosyası
 - lisans ve readme dosyaları.
 
+![indexsayfasi](index.jpg)
