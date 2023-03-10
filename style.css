@@ -7,6 +7,23 @@ header {
     padding: 2em 1em;
     text-align: center;
 }
-header h1{
+
+header h1 {
     font-family: 'Trebuchet MS';
+    font-style: italic;
 }
+nav ul {
+    list-style-type:none;
+    background-color: black;
+    color: yellow;
+    text-align: center;
+    font-family: 'Verdana';
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 auto;
+    padding: 2em 1em;
+    text-decoration: none;
+}
+
