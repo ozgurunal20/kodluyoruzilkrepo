@@ -69,6 +69,7 @@ nav ul li a:visited {
     font-family: 'Cambria';
     padding: 10px;
 }
+/* sayfatabanibaslar */
 footer {
     display: inline-block;
     background-color: #FFC745;
@@ -78,3 +79,4 @@ footer {
     margin: 0px 286px;
     padding-left: 20px;
 }
+/* sayfatabanibiter */
