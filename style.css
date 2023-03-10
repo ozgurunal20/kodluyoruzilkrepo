@@ -6,6 +6,7 @@ header {
     margin: 0 auto;
     padding: 2em 1em;
     text-align: center;
+    border-radius: 20px 5px;
 }
 
 header h1 {
@@ -20,14 +21,16 @@ nav ul {
     color: black;
     text-align: center;
     font-family: 'Verdana';
-    padding-top: 5px ;
-    padding-bottom: 5px;
+    border-radius: 5px 20px;
+    padding: 5px 20px;    
 }
 
 nav ul li {
     display: inline;
     margin: 0 auto;
-    padding: 2em 1em;
+    padding-right: 20px;
+    
+    
 }
 nav ul li a {
     text-decoration: none;
@@ -35,6 +38,25 @@ nav ul li a {
 nav ul li a :active {
     color: black;
 }
+
 nav ul li a:hover {
     color: gray;
+}
+#sayfa {
+    display:inline-block;
+    background-color: black;
+    width: 950px;
+    border-radius: 20px 5px;
+    
+}
+
+#sayfa h2 {
+    padding: 10px;
+    color: yellow;
+    font-family: 'Helvetica';
+}
+#sayfa p {
+    font-style: italic;
+    color: yellow;
+    font-family: 'Cambria';
 }
